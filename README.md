@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @0xKevinz
-- 🌱 Co-founder Metastream Labs Inc
-#Streamertaiment - Combines the best of Entertainment & DeFi. Connecting Gamers, Guilds and Fans by Streaming
+- 🌱 Co-founder of <a target="_blank" href="https://metastream.network"> Metastream Labs Inc </a>
+
+Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.
 
 Reach me: kevin@metastream.network
 
