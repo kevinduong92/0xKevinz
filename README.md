@@ -3,7 +3,5 @@
 
 Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.
 
-Reach me: kevin@metastream.network
-
 
 <img src="./cover.jpg"/>
